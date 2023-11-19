@@ -507,6 +507,47 @@ header {
     font-size: 14px;
 }
 
+/* Input Form Styles  */
+.name {
+    height: 44px;
+    width: 156px;
+    font: PT Mono;
+    color: #323941;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.email {
+    height: 44px;
+    width: 156px;
+    font: PT Mono;
+    color: #323941;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.message {
+    height: 236px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.rname {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.remail {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.rpassword {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
 .cardname {
     height: 44px;
     width: 156px;
@@ -514,6 +555,18 @@ header {
 }
 
 .cardnumber {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.expiration {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.cvv {
     height: 44px;
     width: 156px;
     border-radius: 5px 5px 5px 5px;
