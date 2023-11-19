@@ -506,3 +506,15 @@ header {
     font-family: 'lato';
     font-size: 14px;
 }
+
+.cardname {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.cardnumber {
+    height: 44px;
+    width: 156px;
+    border-radius: 5px 5px 5px 5px;
+}
