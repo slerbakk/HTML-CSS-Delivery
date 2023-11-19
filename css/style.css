@@ -66,7 +66,7 @@ header {
     height: 40px;
     width: 420px;
     border-radius: 12px 0px 0px 12px;
-    margin-top: 18px;
+
   }
 
 .name {
@@ -149,12 +149,11 @@ header {
 .searchbutton {
     width: 90px;
     height: 44px;
-    position: fixed;
     background-color: #FE3900;
     border: solid #FE3900;
     outline-color: #FE3900;
     border-radius: 0px 12px 12px 0px;
-    margin-top: 18px;
+    margin-top: 13px;
   }
 
 .submit {
