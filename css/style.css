@@ -532,42 +532,42 @@ header {
 
 .rname {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .remail {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .rpassword {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .cardname {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .cardnumber {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .expiration {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
 
 .cvv {
     height: 44px;
-    width: 156px;
+    width: 320px;
     border-radius: 5px 5px 5px 5px;
 }
