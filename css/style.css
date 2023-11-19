@@ -495,3 +495,9 @@ header {
         display: none;
      
 }
+
+    .message {
+        height: 236px;
+        width: 440px;
+        border-radius: 5px 5px 5px 5px;
+}
